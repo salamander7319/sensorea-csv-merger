@@ -9,4 +9,4 @@ Ibrahim Elmurzaev
 ## Version 1.0:
 * Le programme permet de sélectionner d'ouvrir un navigateur pour sélectionner un ou plusieurs fichier .CSV pour les fusionner.
 * Il détecte automatiquement la donnée à importer avec le nom du fichier (par exemple "LowFan" ou "Occupancy")
-* L'utilisateur supprimer la liste des fichiers sélectionnés.
+* L'utilisateur peut supprimer la liste des fichiers sélectionnés.
